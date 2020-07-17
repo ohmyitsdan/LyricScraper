@@ -3,6 +3,7 @@
 
 # May not want to commit lyrics text files
 *.txt
+!requirements.txt
 *.json
 *.csv
 
