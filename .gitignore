@@ -1,0 +1,29 @@
+# macOS
+*.DS_Store
+
+# May not want to commit lyrics text files
+*.txt
+*.json
+*.csv
+
+# Test files
+.cache/
+
+# Python module things
+*.pyc
+
+# Python cache stuff
+__pycache__
+dist
+build
+.idea
+
+# Environment
+venv
+
+# API
+secrets.py
+saved_lyrics
+
+# VS Code
+.vscode
